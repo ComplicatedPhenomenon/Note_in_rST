@@ -29,7 +29,7 @@ in the next iteration.
 
 Monte Carlo integration makes few assumptions about the
 integrand --- it needn't be analytic nor even continuous. This
-makes Monte Carlo integation unusually robust. It also makes it well suited
+makes Monte Carlo integration unusually robust. It also makes it well suited
 for adaptive integration. Adaptive strategies are essential for
 multidimensional integration, especially in high dimensions, because
 multidimensional space is large, with  lots of corners, making it
@@ -1334,7 +1334,3 @@ with each other in arbitrary arithmetic expressions to
 get new :class:`gvar.GVar`\s with the correct standard
 deviations, and properly correlated with other
 :class:`gvar.GVar`\s --- that is the tricky part.
-
-
-
-

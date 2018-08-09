@@ -13,6 +13,8 @@ Welcome to Woody's documentation!
    tutorial.rst
    background.rst
    vegas.rst
+   axion.rst
+   forward.rst
 
 
 Indices and tables

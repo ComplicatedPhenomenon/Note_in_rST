@@ -10,9 +10,7 @@ Welcome to Woody's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   tutorial.rst
-   background.rst
-   vegas.rst
+   core/index
    axion.rst
    forward.rst
 

@@ -1,5 +1,9 @@
 Forward
 ==============
+.. admonition:: Identity Matrix and Survival Probability
+   :class: note
+
+   Identity matrix shifts the eigenvalues up and down homogeneously which changes the evolution of the state. However, since this is only a phase, the calculation of the survival probability will kill this phase.
 
 前几日在知乎上看到一个话题叫做：把知识连成一片是什么体验？
 
@@ -9,3 +13,18 @@ Forward
 有太多五花八门的东西诱惑我想学习了，然而，我已经研究生毕业了,顿时，心头压力倍增.我知道我从事的工作应该专而精，不应该去跟风，而是去攻克难题，涉猎太多难免狼狈．
 
 我又想其贝拉对初来福克斯小镇对这里的形容，和我住的地方颇为契合．
+
+Phillip Helbig
+---------------
+* Abundant original Contents.
+* Intelligent design
+
+There must be a lot of useful source code written by people who eventually leave astronomy. Some if it is thus lost. It would be nice if there were a practical way to preserve such code for posterity.
+
+
+
+Data System
+
+Astrophysics Data System. ADS
+
+Index of Items

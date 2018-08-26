@@ -3,21 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Woody's documentation!
+Gamma Ray Astronomy!
 =================================
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PIA21474-CrabNebula-5Observatories-Text.jpg/800px-PIA21474-CrabNebula-5Observatories-Text.jpg
+  :width: 50%
+  :align: center
+
+  The Crab Nebula – five observatories (10 May 2017)
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    core/index
-   axion.rst
-   forward.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   monkey/index

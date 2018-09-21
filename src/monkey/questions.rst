@@ -6,15 +6,29 @@ My ultimate aim
 - Understand the context.
 - Know what have been achieved.
 
-- Correlation length.
+- The Correlation length of EGMF.
 
   when the primary VHE gamma photon interact with EBL, the length it went through.
   Before the pair being deflected by IGMF, the pairs won't go along the direction primary photon.
 
   spectroscopy  of an object
+
+
 - How to set lower limit and upper limit of EGMF?
 
   According to data from Fermi and HESS etc.
+
+- The parameters of `EBL`_.
+
+.. _EBL: https://en.wikipedia.org/wiki/Extragalactic_background_light
+
+  Hard to detect since the bright background, including earth, solar, galaxy
+
+  The methods do we have. How did it took effects.
+
+  Why did EBL catch our attention?
+
+  - What exactly is EBL spectrum
 
 - Helicity of magnetic field.
 - Does the sun emit gamma photons?
@@ -43,3 +57,28 @@ Time delay of the two photons undergo different situation.
 If the VHE pairs didn't scatter with photons of CMB and travel to earth, how do
 we discriminate it with  VHE photons. Will it initiate EM cascade? If we are not
 able to differentiate them, what reason do we have to ignore the noise.
+
+
+“High-energy gamma rays can be produced either by accelerated electrons or protons.
+The observation of a neutrino, which is a hallmark of proton interactions, is the
+first definitive evidence of proton acceleration by black holes.”
+
+.. _CMB: https://www.space.com/20330-cosmic-microwave-background-explained-infographic.html
+
+From Quora:
+
+The origination of the big bang may have been point-like, but that says nothing
+about there being a "direction" of the big bang. Every point in space come from
+the big bang point of the origin.
+
+The CMB was formed when the universe cooled to a point that free electrons and
+protons could combine to form neutral hydrogen. This allowed light to travel for
+great distances without being scattered. This happened everywhere in the observable
+universe at roughly the same time, which explain why we see the CMB in every direction.
+We are continually receiving photons that begin to stream uninterrupted from points
+in space that are increasingly farther away.
+
+If every point in a finitely boundless space begin to expand outwards it would
+result in the same scenario.
+
+What it means to the light is absorbed?

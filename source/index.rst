@@ -4,16 +4,19 @@
    contain the root `toctree` directive.
 
 Gamma Ray Astronomy!
-=================================
+######################
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PIA21474-CrabNebula-5Observatories-Text.jpg/800px-PIA21474-CrabNebula-5Observatories-Text.jpg
   :width: 50%
   :align: center
 
   The Crab Nebula – five observatories (10 May 2017)
 
+`Research Proposal`_
+=======================================================================================
+.. _Research Proposal: <https://v1.overleaf.com/18389248kdqyqwvzsfwp#/69410403/>
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   core/index
    monkey/index

@@ -13,7 +13,7 @@ Gamma Ray Astronomy!
 
 `Research Proposal`_
 =======================================================================================
-.. _Research Proposal: <https://v1.overleaf.com/18389248kdqyqwvzsfwp#/69410403/>
+.. _Research Proposal: https://v1.overleaf.com/18389248kdqyqwvzsfwp#/69410403/
 
 .. toctree::
    :maxdepth: 2

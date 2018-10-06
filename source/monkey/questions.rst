@@ -72,7 +72,7 @@ Think over the `CMB`_ and Big Bang
 -----------------------------------
 .. _CMB: https://www.space.com/20330-cosmic-microwave-background-explained-infographic.html
 
-From Quora::
+.. topic:: From Quora:
 
   The origination of the big bang may have been point-like, but that says nothing
   about there being a "direction" of the big bang. Every point in space come from
@@ -80,10 +80,10 @@ From Quora::
 
   The CMB was formed when the universe cooled to a point that free electrons and
   protons could combine to form neutral hydrogen. This allowed light to travel for
-  great distances without being scattered. This happened everywhere in the observable
-  universe at roughly the same time, which explain why we see the CMB in every direction.
-  We are continually receiving photons that begin to stream uninterrupted from points
-  in space that are increasingly farther away.
+  great distances without being scattered. This happened everywhere in the
+  observable universe at roughly the same time, which explain why we see the CMB
+  in every direction. We are continually receiving photons that begin to stream
+  uninterrupted from points in space that are increasingly farther away.
 
   If every point in a finitely boundless space begin to expand outwards it would
   result in the same scenario.

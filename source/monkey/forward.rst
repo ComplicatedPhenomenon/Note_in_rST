@@ -13,7 +13,8 @@ This document is arranged using `reStructuredText <https://thomas-cokelaer.info/
 - “, for paragraphs
 
 .. rubric:: Footnotes
-.. [1] 前几日在知乎上看到一个话题叫做：把知识连成一片是什么体验？
+.. [1] A diary 
+.. 前几日在知乎上看到一个话题叫做：把知识连成一片是什么体验？
   今天早上我六点多醒来，窗外暴雨来势汹汹，难掩激动的心情，去窗户跟前拍照，看着这郁郁森森的树．
   暗沉的天空，仿佛我真的置身于心心
   念念的暮光之城里的情景．然而，不幸的是我吃完早饭昏睡了过去，即使后来醒了强迫自己在雨停的简写外

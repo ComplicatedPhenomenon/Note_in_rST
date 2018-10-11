@@ -4,16 +4,25 @@ Questions
 
 The Correlation length of EGMF.
 `````````````````````````````````
-when the primary VHE gamma photon interact with EBL, the length it went through.
+When the primary VHE gamma photon interact with EBL, the length it went through.
 Before the pair being deflected by IGMF, the pairs won't go along the direction
 primary photon.
+
+Magneticgensis , when the magnetic start to present.
+
+- Before the star formation.
+- While the star formation.
+
+We care about the beginning time since what.
+
+The mechanism to produce magnetic field.
 
 Methods to measure the distance between earth and an object.
 ````````````````````````````````````````````````````````````
 How to set lower limit and upper limit of EGMF?
 ``````````````````````````````````````````````````````````
 
-  According to data from Fermi and HESS etc.
+According to data from Fermi and HESS etc.
 
 The parameters of `EBL`_.
 `````````````````````````````
@@ -90,6 +99,10 @@ Think over the `CMB`_ and Big Bang
 
 What it means to the light is absorbed?
 -----------------------------------------
+
+What is large scale structure?
+--------------------------------
+Primordial magnetic fields in the voids of LSS.
 
 How well do I know about these stuff?
 -----------------------------------------

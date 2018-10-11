@@ -9,3 +9,47 @@ or setup the advanced setting in ReadtheDocs.
 Now I think `sphinx_rtd_theme` is better.
 
 An urgent problem about **how to manage the downloaded article** has long plagued me.
+
+<!-- code break -->
+
+    f[x_]:=3x^4-8x^3+6x^2-12
+
+
+
+<!-- code break -->
+
+    ?Plot
+
+[//]: # (No rules defined for Print)
+
+
+
+<!-- code break -->
+
+    Plot[f[x],{x,-3,3}]
+
+[//]: # (No rules defined for Output)
+
+
+
+<!-- code break -->
+
+    FindMinimum[f[x],{x,-3,3}]
+
+[//]: # (No rules defined for Output)
+
+
+
+<!-- code break -->
+
+    UD= UniformDistribution[{0,6}]
+
+[//]: # (No rules defined for Output)
+
+
+
+<!-- code break -->
+
+    Variance[UD]
+
+[//]: # (No rules defined for Output)

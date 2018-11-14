@@ -14,5 +14,4 @@ Gamma ray basics
    history.rst
    researchbranch.rst
    literature.rst
-   ASCL.rst
    questions.rst

@@ -30,6 +30,29 @@ How astronomer get data?
   - Spectrum
   - Images
 
+Cosmological redshift
+^^^^^^^^^^^^^^^^^^^^^^^^^
+There are three main causes of red and blue shifts in astronomy and cosmology
+- Doppler redshift
+- Cosmological redshift
+- Gravitational redshift
+
+It is customary to refer to this change using a dimensionless quantity called z
+
+.. math::
+
+   1+z = \frac{\lambda_{\mathrm{obsv}}}{\lambda_{\mathrm{emit}}}
+
+.. math::
+
+   1+z = \frac{f_{\mathrm{emit}}}{f_{\mathrm{obsv}}}
+
+.. math::
+
+  1+z = \frac{a_{\mathrm{now}}}{a_{\mathrm{then}}}
+
+:math:`a` is the scale factor. In an expanding universe such as the one we inhabit, the scale factor is monotonically increasing as time passes, thus, z is positive and distant galaxies appear redshifted.
+
 Phenomenology
 --------------
 Gamma ray induced cascade
@@ -48,6 +71,33 @@ photons through inverse Compton scattering e + :math:`\gamma_b` →
 energy, this process can carry on and results in a single VHE gamma ray
 producing a multitude of high energy photons. This process is called an
 electromagnetic cascade.
+
+Detail of process as much as possible
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gamma ray source
+
+- Active Galaxy Nuclei
+
+  It's like a powerful? beam of laser
+- Pulsars
+
+  Regularly receive its signal from earth.
+
+The universe is opaque for gamma rays in the VHE range. Photon absorption in the
+intergalactic photon background is energy dependent and starts to become substantial
+at :math:`\mathrm{TeV}` energies. (Better to place a clear calculation here, show the
+final formula and explain it)
+
+The cascade process make initial VHE photons into photons of lower energies which
+can travel further. (Is the universe transparent to the lower energies photons? Yes, that's why
+we can see the CMB until now.)
+
+Moreover, depending on the intensity of the IGMF, the bending effect on the electron positron
+pair trajectories can result into different emission scenarios. For a strong IGMF intensity
+synchrotron cooling would become dominant and no secondary gamma ray would be produced, this
+scenario has been ruled out for Mpc scale IGMF by the non-observation of Farady rotation.
+For a more moderate IGMF. the pair trajectories also are isotropized around the source
+eventually give rise to an extended isotropic emission of photons, or halo.
 
 How do we simulate the process of electromagnetic cascade?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -81,6 +131,7 @@ According to the , :math:`D_{IC}` must be small, to understand it intuitively,
    {\mathrm{TeV}})^{-1}\mathrm{Mpc}
 
 Thomas cross section
+
 
 ELMAG simulations
 ^^^^^^^^^^^^^^^^^^

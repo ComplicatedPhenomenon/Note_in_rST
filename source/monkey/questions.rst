@@ -21,6 +21,12 @@ Why did EBL catch our attention?
 ``````````````````````````````````
 It is one of the most fundamental observational quantities in cosmology.
 
+.. seealso::
+
+    As we send spacecraft and astronauts further and further from home, we must understand this space environment just as early seafarers needed to understand the ocean.
+
+
+
 The parameters of `EBL`_.
 `````````````````````````````
 
@@ -37,14 +43,18 @@ When the primary VHE gamma photon interact with EBL, the length it went through.
 Before the pair being deflected by IGMF, the pairs won't go along the direction
 primary photon.
 
-Magneticgensis, when the magnetic start to present.
+Physicists used the relic of Gamma ray from blazar to put constraints on physical parameter of IGM.
+
+They compare their analytical result with Monte Carlo simulation which represents what indeed happens in the world.
+
+Magneticgensis refers to The mechanism to produce magnetic field. When the magnetic start to present.
 
 - Before the star formation.
 - While the star formation.
 
 We care about the beginning time since what.
 
-The mechanism to produce magnetic field.
+
 
 
 How to set lower limit and upper limit of EGMF?

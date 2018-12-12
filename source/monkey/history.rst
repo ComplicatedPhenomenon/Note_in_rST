@@ -95,7 +95,7 @@ we can see the CMB until now.)
 Moreover, depending on the intensity of the IGMF, the bending effect on the electron positron
 pair trajectories can result into different emission scenarios. For a strong IGMF intensity
 synchrotron cooling would become dominant and no secondary gamma ray would be produced, this
-scenario has been ruled out for Mpc scale IGMF by the non-observation of Farady rotation.
+scenario has been ruled out for Mpc scale IGMF by the non-observation of Faraday rotation.
 For a more moderate IGMF. the pair trajectories also are isotropized around the source
 eventually give rise to an extended isotropic emission of photons, or halo.
 

@@ -5,7 +5,7 @@ Preparation
 Abbreviation
 ^^^^^^^^^^^^^
 - EGBL : extragalactic background light.
-- IGMF : intergalatic magnetic field
+- IGMF : intergalactic magnetic field
 - CTA [1]_ : Cherenkov telescope array.
 - VHE : very high energy
 
@@ -139,7 +139,7 @@ The codes output total observed spectrum εFε with primary and cascade emission
 binned in energy, angular separation :math:`\delta t`, and time delay
 :math:`\delta \theta`.
 
-Modelling of the cascade process
+Modeling of the cascade process
 `````````````````````````````````
 
 `Flux density <http://www.astro.caltech.edu/~george/ay20/Ay20-Lec3x.pdf>`_

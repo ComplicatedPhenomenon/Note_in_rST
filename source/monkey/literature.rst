@@ -20,7 +20,7 @@ Literature
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. _arXiv:1009.1782: https://arxiv.org/abs/1009.1782v2<https://arxiv.org/abs/1009.1782v2
 
-2. Time Delay of Cascade Radiation for TeV Blazars and the Measurement of the Intergalactic Magnetic Field. `arXiv:1011.6660`_
+2. Time Delay of Cascade Radiation for TeV Blazers and the Measurement of the Intergalactic Magnetic Field. `arXiv:1011.6660`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: figure/basicprocess.png
    :align: center

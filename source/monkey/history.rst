@@ -60,19 +60,11 @@ Basic concepts
 
 - What is a Cherenkov Process?
 
-An excellent account of the work of Mallet and
-of Cherenkov and of the interpretation of Cherenkov's observations by Frank and Tamm, together with extensive details about applications of the radiation, has been given by Jelley.
+  An excellent account of the work of Mallet and of Cherenkov and of the interpretation of Cherenkov's observations by Frank and Tamm, together with extensive details about applications of the radiation, has been given by Jelley.
 
-So what did Frank and Tamm do? They made interpretation to experiment runned by  Cherenkov.
+  So what did Frank and Tamm do? They made interpretation to experiment runned by  Cherenkov.
 
--
-
-Particles moves faster than the speed of light?
-
-Plane travel faster than the speed of sound?
-A sonic boom
-
-
+  Particles moves faster than the speed of light just like Plane travel faster than the speed of sound,  makes sonic boom.
 
 Gamma ray induced cascade
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

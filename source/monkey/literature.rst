@@ -46,6 +46,17 @@ You can tell from law of sines that  :math:`x = \frac{d\sin \theta_1}{\sin \thet
 
 .. _arXiv:1602.06825: https://arxiv.org/abs/1602.06825?context=astro-ph.HE
 
+Why do we study VHE gamma ray?
+- Lorentz invariant violation predicted by theory beyound standard modle.
+
+- Very high energy photons travel a very very long distance provide a window to infer the properties of intergalactic medium.
+
+  It can be understand intuitively. Since the existence of intergalactic medium affects the track VHE photons. In what kind of way did it affects is still a question to me.
+
+How much have we achieved?
+
+
+
 4. Measuring the correlation length of intergalactic magnetic fields from observations of gamma-ray induced cascades. `arXiv:13072753`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. _arXiv:13072753: https://arxiv.org/abs/1307.2753
